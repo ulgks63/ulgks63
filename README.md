@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ulgks63
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML5
+- 👋 Opa, sou o Ulgks
+- 👀 Eu estou interessado em aprender um pouco de programação
+- 🌱 Nesse exato momento estou aprendendo Python
