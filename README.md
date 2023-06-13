@@ -5,4 +5,4 @@
 - 😀 ı ɐɯ ʌǝɹʎ ɥɐppʎ ɐbouʇ ʇɥıs ɐnd ı ɥopǝ ıʇ ʍoɹʞs ouʇ
 - [ ] Python
 - [ ] Segurança
-- [ ] Terminal
+- [✔️] Terminal
